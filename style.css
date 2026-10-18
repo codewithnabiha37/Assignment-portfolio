@@ -9,13 +9,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     line-height: 1.6;
-    background-color: #0b0f19;
-    color: white;
+    background-color: #040429;
+    color: rgb(234, 236, 241);
 }
 
 /* Navbar */
 header {
-    background-color: #111827;
+    background-color: #020f2b;
     color: white;
     padding: 20px;
     text-align: center;
